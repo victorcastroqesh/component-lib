@@ -1,0 +1,24 @@
+{
+  "name": "component-lib",
+  "version": "1.0.0",
+  "description": "react component lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorcastroqesh/component-lib.git"
+  },
+  "author": "Victor Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorcastroqesh/component-lib/issues"
+  },
+  "homepage": "https://github.com/victorcastroqesh/component-lib#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "react": "^18.2.0",
+    "typescript": "^4.9.5"
+  }
+}
